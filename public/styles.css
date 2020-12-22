@@ -55,7 +55,7 @@
   }
   
   .search-bar input{
-    padding:3px 5px;
+    padding:5px 12px;
     font-size: 1.5rem;
     border: none;
     color: #2ec2b0;
@@ -183,8 +183,13 @@
 
     .search-bar{
         
-        margin: 1.2rem auto;
+        margin: 1rem auto;
       
+      }
+
+
+      .search-bar input{
+          font-size: 15px;
       }
 
     .dictionary {
