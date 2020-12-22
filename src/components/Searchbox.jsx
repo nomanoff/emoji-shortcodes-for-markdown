@@ -19,8 +19,8 @@ function Search(){
 
 
     function handleChange(e){
-        const searchItem = e.target.value;
-
+        const searchItem = e.target.value.toLowerCase();
+        console.log(searchItem);
         searchItem === '' ? setSearched(true): setSearched(false);
                
         setSearchEmoji(searchItem);

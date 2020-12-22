@@ -64,7 +64,7 @@
   
   .dictionary {
     display: grid;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     column-gap: 10px;
     row-gap: 15px;
@@ -194,8 +194,8 @@
       }
 
     .term {
-        column-gap: 55px;
-        row-gap: 55px;
+        column-gap: 15px;
+        row-gap: 10px;
         width: 120px;
         padding: 10px;
         height: 120px;
@@ -207,7 +207,7 @@
         font-size: 11px;
       }
 
-
+      
       .description{
           font-size: 11px;
           height: 30px;
@@ -231,5 +231,44 @@
       }
 
 
+  }
+
+  @media screen and (max-width: 405px){
+    .dictionary {
+        
+        grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+       
+      }
+
+    .term {
+        column-gap: 15px;
+        row-gap: 5px;
+        width: 95px;
+        padding: 6px;
+        height: 110px;
+        margin: 1rem auto;
+        text-align: center;
+      }
+
+      dt {
+        margin-bottom: 10px;
+      }
+
+      .description{
+        font-size: 11px;
+        height: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+     
+    }
+  .emoji {
+      margin: 12px auto;
+      font-size: 2rem;
+    }
+
+    .copy-button button{
+        padding: 4px 10px;  
+      }
 
   }
