@@ -1,11 +1,11 @@
 import React  from 'react';
-// import useClipboard from "react-use-clipboard";
+import useClipboard from "react-use-clipboard";
 
 
 function Entry(props){
 
 
-    // const [isCopied, setCopied] = useClipboard(props.markdown);
+    const [isCopied, setCopied] = useClipboard(props.markdown);
   
       return(
           <div className="term">
@@ -19,10 +19,10 @@ function Entry(props){
               {props.meaning}
             </dd>
   
-            <dd>
-            {/* <button onClick={setCopied}>
-                    Copy {isCopied ? "Yes! 👍" : "Nope! 👎"}
-            </button> */}
+            <dd className="copy-button">
+            <button onClick={setCopied}>
+                    Copy {isCopied ? "😉" : "🙂"}
+            </button>
             </dd>
   
   

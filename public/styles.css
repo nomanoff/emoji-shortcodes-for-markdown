@@ -59,13 +59,13 @@
     align-items: center;
     column-gap: 10px;
     row-gap: 15px;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
    
   }
   
   .term {
     text-align: center;
-    width: 300px;
+    width: 220px;
     padding: 15px;
     border-radius: 3px;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
@@ -113,6 +113,23 @@
   
   dd dl .term {
     margin-bottom: 1rem;
+  }
+
+  .copy-button button{
+    border: none;
+    padding: 5px 15px;  
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: #83a6aa;
+    color: #fff;
+    font-weight: 600;
+  }
+
+  .copy-button button:hover{
+      cursor: pointer;
+  }
+  .copy-button button:focus{
+      outline: none;
   }
   
   
