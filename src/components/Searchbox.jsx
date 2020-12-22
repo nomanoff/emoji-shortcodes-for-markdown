@@ -22,13 +22,11 @@ function Search(){
         const searchItem = e.target.value;
 
         searchItem === '' ? setSearched(true): setSearched(false);
-        
                
         setSearchEmoji(searchItem);
 
         setSortedList(emojipedia.filter(emoji => emoji.markdown.toLowerCase().indexOf(searchEmoji) >= 0
                                                  || emoji.name.toLowerCase().indexOf(searchEmoji) >= 0))
-
 
     }
     

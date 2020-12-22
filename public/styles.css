@@ -22,18 +22,27 @@
   
   }
   
-  h1 {
-    font-weight: 900;
-    font-size: 400%;
+  .title {
+    
     text-align: center;
     margin-top: 2rem;
     color: #fff;
     line-height: 1.2;
   }
   
-  h1 span {
-    padding: 5px 30px;
+  .title h1{
+    padding: 5px 10px;
     background: #2ec2b0;
+  }
+
+  .title h1{
+    padding-bottom: 0.5rem ;
+    font-weight: 900;
+    margin-bottom: 0.5rem;
+  }
+  .title h6{
+    padding-bottom: 0.2rem;
+    color: #2f5551;
   }
   
   
@@ -41,7 +50,7 @@
     display: flex;
     max-width: 200px;
     justify-content: center;
-    margin: 2rem auto;
+    margin: 1.5rem auto;
   
   }
   
@@ -66,12 +75,22 @@
   .term {
     text-align: center;
     width: 220px;
+    height: 230px;
     padding: 15px;
     border-radius: 3px;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
     background-color: #fff;
-    margin: 0 auto;
+    margin: 1rem auto;
   }
+
+  .description{
+        
+          height: 50px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+       
+      }
   
   
   
@@ -87,7 +106,7 @@
   }
   
   .emoji {
-    margin: 10px auto;
+    margin: 15px auto;
     display: block;
     font-size: 400%;
   }
@@ -132,10 +151,6 @@
       outline: none;
   }
   
-  
-  
-  
-  
   footer {
     position: relative;
     text-align: center;
@@ -146,4 +161,75 @@
   
   footer p {
     color: rgb(121, 123, 126);
+  }
+
+
+  /* * * *          R E S P O N S I V E     S T Y L E S       * * * */
+
+  @media screen and (max-width: 485px){
+
+    .main{
+        margin: 10px auto;
+    }
+
+    h1{
+        font-size: 2.5rem;
+    }
+
+    h1 span{
+        padding: 5px 80px;
+    }
+
+
+    .search-bar{
+        
+        margin: 1.2rem auto;
+      
+      }
+
+    .dictionary {
+        
+        grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+       
+      }
+
+    .term {
+        column-gap: 55px;
+        row-gap: 55px;
+        width: 120px;
+        padding: 10px;
+        height: 120px;
+        margin: 1rem auto;
+        text-align: center;
+      }
+
+      dt span {
+        font-size: 11px;
+      }
+
+
+      .description{
+          font-size: 11px;
+          height: 30px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+       
+      }
+    .emoji {
+        margin: 8px auto;
+        display: block;
+        font-size: 2.2rem;
+      }
+
+
+      .copy-button button{
+        padding: 4px 18px;  
+        font-size: 12px;
+        border-top-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+      }
+
+
+
   }

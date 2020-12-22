@@ -12,16 +12,12 @@ function Entry(props){
           
             <dt>
               <span className="emoji" role="img" aria-label="Tense Biceps">{props.img}</span>
-              <span>{props.name}</span>
+              <h3 className="description">{props.name}</h3>
             </dt>
-  
-            <dd>
-              {props.meaning}
-            </dd>
   
             <dd className="copy-button">
             <button onClick={setCopied}>
-                    Copy {isCopied ? "😉" : "🙂"}
+                     {isCopied ? "copied 😉" : "copy 🙂"}
             </button>
             </dd>
   
