@@ -25,8 +25,9 @@
   header h1 {
     color: #fff;
     font-family: "McLaren", cursive;
-    font-weight: 200;
+    font-weight: 800;
     font-size: 2rem;
+    letter-spacing: 1.8px;
   }
 
   .sub-header{
@@ -36,7 +37,7 @@
     letter-spacing: 1.5px;
     font-size: 14px;
     padding-left: 2px;
-    color: #696352;
+    color: #ffffff;
     display: flex;
     justify-content: space-between;
     align-items: center;
