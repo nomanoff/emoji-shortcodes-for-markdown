@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    transition: ease 0.28s;
   }
   
   
@@ -10,13 +11,14 @@
     font-weight: 400;
     background:  #e4e4da;
     color: rgb(110, 110, 110);
+  
   }
   
 
   header {
     background-color: #f5ba13;
     margin: 0 auto;
-    padding: 16px 20px;
+    padding: 14px 30px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
   }
   
@@ -25,6 +27,35 @@
     font-family: "McLaren", cursive;
     font-weight: 200;
     font-size: 2rem;
+  }
+
+  .sub-header{
+    width: 100%;
+    height: 20px;
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    padding-left: 2px;
+    color: #696352;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .github-stat a{
+    text-decoration: none;
+    font-weight: 800;
+    color: #5d5a52;
+    font-size: 14px;
+    margin: 5px;
+    background-color:  #fbfbfb;
+    padding: 4px 8px;
+    border-radius: 5px;
+  }
+
+  .github-stat a:hover{
+    background-color: #ececec;
+    color: #494845;
   }
 
 
@@ -83,6 +114,14 @@
     margin: 0 auto;
   }
 
+  .emoji-card:hover{
+    border-radius: 20px;
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    transform: scale(1.2);
+    transform-origin: center;
+  }
+
   
   
   .emoji {
@@ -97,10 +136,14 @@
 
   .copied{
     margin-top: -0.5rem;
-    background-color: #f5ba13;
+    background-color: #19d832;
     color: #fff;
     font-size: 13px;
-    border-radius: 8px;
+    /* border-radius: 8px; */
+    border-bottom-left-radius: 15px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 15px;
+    border-top-right-radius: 5px;
   }
   
   
