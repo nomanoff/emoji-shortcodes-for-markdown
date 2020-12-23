@@ -94,6 +94,14 @@
   .emoji-card:hover{
       cursor: pointer;
   }
+
+  .copied{
+    margin-top: -0.5rem;
+    background-color: #f5ba13;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 8px;
+  }
   
   
   footer {

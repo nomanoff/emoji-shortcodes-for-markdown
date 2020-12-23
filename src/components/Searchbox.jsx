@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import emojipedia from '../emojipedia';
 import allemojis from '../complete';
 import Entry from './Entry';
 import ReactMarkdown from 'react-markdown';
