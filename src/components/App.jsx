@@ -7,14 +7,17 @@ function App() {
   
     return (
       <div>
+
+        <Heading></Heading>
+
         <div className='main'>
         
-        <Heading></Heading>
         <Search></Search>
   
       </div>
       
       <Footer></Footer>
+      
       </div>
       
     );

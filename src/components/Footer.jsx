@@ -5,7 +5,7 @@ function Footer(){
     let currentYear = new Date();
 
     return <footer>
-        <p> &copy; ali adam {currentYear.getFullYear()}</p>
+        <p> &copy; {currentYear.getFullYear()}  Ali Adam</p>
     </footer>
 }
 

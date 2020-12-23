@@ -1,32 +1,45 @@
 import React, { useState } from 'react';
 import emojipedia from '../emojipedia';
+import allemojis from '../complete';
 import Entry from './Entry';
+import ReactMarkdown from 'react-markdown';
+import emoji from 'emoji-dictionary';
+
 
 function Search(){
 
-    const [searchEmoji, setSearchEmoji] = useState(emojipedia);
+    const emojiSupport = text => text.value.replace(/:\w+:/gi, name => emoji.getUnicode(name))
+
+    const [searchEmoji, setSearchEmoji] = useState(allemojis);
     const [sortedList, setSortedList] = useState([]);
     const [searched, setSearched] = useState(true);
 
     function createEmojiCard(card){
             return <Entry 
                        key ={card.id}
-                       img = {card.emoji}
+                       img = {<ReactMarkdown
+                                     source={card.markdown}
+                                     renderers={{text: emojiSupport}} 
+
+                                    />}
                        name = {card.name}
                        markdown = {card.markdown}
                    ></Entry>  
     }
 
 
+
     function handleChange(e){
         const searchItem = e.target.value.toLowerCase();
+        
+
         console.log(searchItem);
         searchItem === '' ? setSearched(true): setSearched(false);
                
         setSearchEmoji(searchItem);
 
-        setSortedList(emojipedia.filter(emoji => emoji.markdown.toLowerCase().indexOf(searchEmoji) >= 0
-                                                 || emoji.name.toLowerCase().indexOf(searchEmoji) >= 0))
+        setSortedList(allemojis.filter(emoji => emoji.markdown.toLowerCase().indexOf(searchEmoji) >= 0))
+                                                //  || emoji.name.toLowerCase().indexOf(searchEmoji) >= 0))
 
     }
     
@@ -42,11 +55,11 @@ function Search(){
 
         </div>
 
-         <div className="dictionary">
+         <div className="emoji-wrapper">
             {sortedList.map(createEmojiCard)}
             {
             searched ? (
-                emojipedia.map(createEmojiCard)
+                allemojis.map(createEmojiCard)
             ) : null
         }
 
