@@ -166,15 +166,19 @@
   @media screen and (max-width: 715px){
 
     header{
-      padding: 10px 15px;
+      padding: 20px 15px;
       text-align: center;
     }
 
     .sub-header{
+      margin-top: 5px;
       flex-direction: column;
-      height: 40px;
+      height: 50px;
     }
 
+    .github-stat{
+      margin-top: 10px;
+    }
     .github-stat a{
       margin-top: 10px;
       font-size: 12px;
