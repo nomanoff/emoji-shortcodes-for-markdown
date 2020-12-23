@@ -362,42 +362,42 @@ const allemojis = [
     id: 90,
     markdown: ":fire:"
     },
-    {
-    id: 91,
-    markdown: ":poop:"
-    },
-    {
-    id: 92,
-    markdown: ":poop:"
-    },
-    {
-    id: 93,
-    markdown: ":poop:"
-    },
-    {
-    id: 94,
-    markdown: ":poop:"
-    },
-    {
-    id: 95,
-    markdown: ":poop:"
-    },
-    {
-    id: 96,
-    markdown: ":poop:"
-    },
-    {
-    id: 97,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 91,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 92,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 93,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 94,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 95,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 96,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 97,
+    // markdown: ":poop:"
+    // },
     {
     id: 98,
     markdown: ":ok_hand:"
     },
-    {
-    id: 99,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 99,
+    // markdown: ":poop:"
+    // },
     {
     id: 100,
     markdown: ":facepunch:"
@@ -414,10 +414,10 @@ const allemojis = [
     id: 103,
     markdown: ":wave:"
     },
-    {
-    id: 104,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 104,
+    // markdown: ":poop:"
+    // },
     {
     id: 105,
     markdown: ":raised_hand:"
@@ -470,26 +470,26 @@ const allemojis = [
     id: 117,
     markdown: ":fu:"
     },
-    {
-    id: 118,
-    markdown: ":poop:"
-    },
-    {
-    id: 119,
-    markdown: ":poop:"
-    },
-    {
-    id: 120,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 118,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 119,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 120,
+    // markdown: ":poop:"
+    // },
     {
     id: 121,
     markdown: ":couple:"
     },
-    {
-    id: 122,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 122,
+    // markdown: ":poop:"
+    // },
     {
     id: 123,
     markdown: ":two_men_holding_hands:"
@@ -502,58 +502,58 @@ const allemojis = [
     id: 125,
     markdown: ":dancer:"
     },
-    {
-    id: 126,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 126,
+    // markdown: ":poop:"
+    // },
     {
     id: 127,
     markdown: ":ok_woman:"
     },
-    {
-    id: 128,
-    markdown: ":poop:"
-    },
-    {
-    id: 129,
-    markdown: ":poop:"
-    },
-    {
-    id: 130,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 128,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 129,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 130,
+    // markdown: ":poop:"
+    // },
     {
     id: 131,
     markdown: ":bride_with_veil:"
     },
-    {
-    id: 132,
-    markdown: ":poop:"
-    },
-    {
-    id: 133,
-    markdown: ":poop:"
-    },
-    {
-    id: 134,
-    markdown: ":poop:"
-    },
-    {
-    id: 135,
-    markdown: ":poop:"
-    },
-    {
-    id: 136,
-    markdown: ":poop:"
-    },
-    {
-    id: 137,
-    markdown: ":poop:"
-    },
-    {
-    id: 138,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 132,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 133,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 134,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 135,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 136,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 137,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 138,
+    // markdown: ":poop:"
+    // },
     {
     id: 139,
     markdown: ":nail_care:"
@@ -586,10 +586,10 @@ const allemojis = [
     id: 146,
     markdown: ":older_man:"
     },
-    {
-    id: 147,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 147,
+    // markdown: ":poop:"
+    // },
     {
     id: 148,
     markdown: ":man_with_gua_pi_mao:"
@@ -598,14 +598,14 @@ const allemojis = [
     id: 149,
     markdown: ":man_with_turban:"
     },
-    {
-    id: 150,
-    markdown: ":poop:"
-    },
-    {
-    id: 151,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 150,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 151,
+    // markdown: ":poop:"
+    // },
     {
     id: 152,
     markdown: ":angel:"
@@ -730,50 +730,50 @@ const allemojis = [
     id: 182,
     markdown: ":thought_balloon:"
     },
-    {
-    id: 183,
-    markdown: ":poop:"
-    },
-    {
-    id: 184,
-    markdown: ":poop:"
-    },
-    {
-    id: 185,
-    markdown: ":poop:"
-    },
-    {
-    id: 186,
-    markdown: ":poop:"
-    },
-    {
-    id: 187,
-    markdown: ":poop:"
-    },
-    {
-    id: 188,
-    markdown: ":poop:"
-    },
-    {
-    id: 189,
-    markdown: ":poop:"
-    },
-    {
-    id: 190,
-    markdown: ":poop:"
-    },
-    {
-    id: 191,
-    markdown: ":poop:"
-    },
-    {
-    id: 192,
-    markdown: ":poop:"
-    },
-    {
-    id: 193,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 183,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 184,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 185,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 186,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 187,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 188,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 189,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 190,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 191,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 192,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 193,
+    // markdown: ":poop:"
+    // },
     {
     id: 194,
     markdown: ":sunny:"
@@ -1226,14 +1226,14 @@ const allemojis = [
     id: 306,
     markdown: ":partly_sunny:"
     },
-    {
-    id: 307,
-    markdown: ":poop:"
-    },
-    {
-    id: 308,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 307,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 308,
+    // markdown: ":poop:"
+    // },
     {
     id: 309,
     markdown: ":bamboo:"
@@ -1362,10 +1362,10 @@ const allemojis = [
     id: 340,
     markdown: ":phone:"
     },
-    {
-    id: 341,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 341,
+    // markdown: ":poop:"
+    // },
     {
     id: 342,
     markdown: ":telephone_receiver:"
@@ -1564,7 +1564,7 @@ const allemojis = [
     },
     {
     id: 391,
-    markdown: ":e-mail:"
+    markdown: ":email:"
     },
     {
     id: 392,
@@ -1574,10 +1574,10 @@ const allemojis = [
     id: 393,
     markdown: ":outbox_tray:"
     },
-    {
-    id: 394,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 394,
+    // markdown: ":poop:"
+    // },
     {
     id: 395,
     markdown: ":incoming_envelope:"
@@ -1794,14 +1794,14 @@ const allemojis = [
     id: 448,
     markdown: ":golf:"
     },
-    {
-    id: 449,
-    markdown: ":poop:"
-    },
-    {
-    id: 450,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 449,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 450,
+    // markdown: ":poop:"
+    // },
     {
     id: 451,
     markdown: ":horse_racing:"
@@ -1810,14 +1810,14 @@ const allemojis = [
     id: 452,
     markdown: ":snowboarder:"
     },
-    {
-    id: 453,
-    markdown: ":poop:"
-    },
-    {
-    id: 454,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 453,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 454,
+    // markdown: ":poop:"
+    // },
     {
     id: 455,
     markdown: ":ski:"
@@ -1898,14 +1898,14 @@ const allemojis = [
     id: 474,
     markdown: ":memo:"
     },
-    {
-    id: 475,
-    markdown: ":poop:"
-    },
-    {
-    id: 476,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 475,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 476,
+    // markdown: ":poop:"
+    // },
     {
     id: 477,
     markdown: ":art:"
@@ -1930,10 +1930,10 @@ const allemojis = [
     id: 482,
     markdown: ":guitar:"
     },
-    {
-    id: 483,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 483,
+    // markdown: ":poop:"
+    // },
     {
     id: 484,
     markdown: ":sandal:"
@@ -1950,10 +1950,10 @@ const allemojis = [
     id: 487,
     markdown: ":boot:"
     },
-    {
-    id: 488,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 488,
+    // markdown: ":poop:"
+    // },
     {
     id: 489,
     markdown: ":tshirt:"
@@ -1982,10 +1982,10 @@ const allemojis = [
     id: 495,
     markdown: ":kimono:"
     },
-    {
-    id: 496,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 496,
+    // markdown: ":poop:"
+    // },
     {
     id: 497,
     markdown: ":ribbon:"
@@ -2410,18 +2410,18 @@ const allemojis = [
     id: 602,
     markdown: ":speedboat:"
     },
-    {
-    id: 603,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 603,
+    // markdown: ":poop:"
+    // },
     {
     id: 604,
     markdown: ":sailboat:"
     },
-    {
-    id: 605,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 605,
+    // markdown: ":poop:"
+    // },
     {
     id: 606,
     markdown: ":anchor:"
@@ -2478,10 +2478,10 @@ const allemojis = [
     id: 619,
     markdown: ":oncoming_automobile:"
     },
-    {
-    id: 620,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 620,
+    // markdown: ":poop:"
+    // },
     {
     id: 621,
     markdown: ":red_car:"
@@ -2682,10 +2682,10 @@ const allemojis = [
     id: 670,
     markdown: ":ru:"
     },
-    {
-    id: 671,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 671,
+    // markdown: ":poop:"
+    // },
     {
     id: 672,
     markdown: ":uk:"
@@ -2858,10 +2858,10 @@ const allemojis = [
     id: 714,
     markdown: ":fast_forward:"
     },
-    {
-    id: 715,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 715,
+    // markdown: ":poop:"
+    // },
     {
     id: 716,
     markdown: ":ok:"
@@ -3070,10 +3070,10 @@ const allemojis = [
     id: 767,
     markdown: ":do_not_litter:"
     },
-    {
-    id: 768,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 768,
+    // markdown: ":poop:"
+    // },
     {
     id: 769,
     markdown: ":no_bicycles:"
@@ -3334,18 +3334,18 @@ const allemojis = [
     id: 833,
     markdown: ":x:"
     },
-    {
-    id: 834,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 834,
+    // markdown: ":poop:"
+    // },
     {
     id: 835,
     markdown: ":bangbang:"
     },
-    {
-    id: 836,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 836,
+    // markdown: ":poop:"
+    // },
     {
     id: 837,
     markdown: ":o:"
@@ -3406,14 +3406,14 @@ const allemojis = [
     id: 851,
     markdown: ":trident:"
     },
-    {
-    id: 852,
-    markdown: ":poop:"
-    },
-    {
-    id: 853,
-    markdown: ":poop:"
-    },
+    // {
+    // id: 852,
+    // markdown: ":poop:"
+    // },
+    // {
+    // id: 853,
+    // markdown: ":poop:"
+    // },
     {
     id: 854,
     markdown: ":white_check_mark:"
@@ -3468,7 +3468,7 @@ const allemojis = [
     },
     {
     id: 867,
-    markdown: ":poop:"
+    markdown: ":end:"
     }
     
     ]
