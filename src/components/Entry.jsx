@@ -6,7 +6,7 @@ function Entry(props){
 
 
     const [isCopied, setCopied] = useClipboard(props.markdown, {
-      successDuration: 300,
+      successDuration: 400,
     });
 
     
