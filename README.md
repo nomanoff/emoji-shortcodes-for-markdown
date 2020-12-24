@@ -1,27 +1,40 @@
 
 # 1000+ Emoji Emoticons For Markdowns
-
+-
 #### We all love using emoji emoticons, don't we? :smile:
 #### However, some of them are not super easy to remember when needed.  :confused:
 #### This is where   [emojicodes.com]() comes into play!
+-
+-
+-
 
-  
 <a  href="#"><img  width="728"  src="/src/img/emojicodes.png"  alt="Demo"></a>
 
 > Search for your favorite emoji and copy it with just ONE CLICK
   
+-
+-
+-
+
 
 ## Why
 
-
 | Easy Access ✔ | Searchable ✔ | One Click Copy ✔ | Simple UI ✔ | 
+
+-
+-
+-
+
   
 ## Usage
 
->Hover over and Click to Copy to your Clipboard
+>Hover over and CLICK to Copy to Your Clipboard
 
 <img  width="500"  src="/src/img/usage.gif"  alt="Usage Demo">
 
+-
+-
+-
 
 ## Where Can I Use it
 
