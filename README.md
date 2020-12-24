@@ -1,66 +1,33 @@
-## 1000+  Emoji Emoticons For Mardown and Markup Languages
 
-> Search for your favourite emoji and copy it with just ONE CLICK
+# 1000+ Emoji Emoticons For Markdowns
 
-<a href="#"><img width="728" src="/src/img/emojicodes.png" alt="Demo"></a>
+#### We all love using emoji emoticons, don't we? :smile:
+#### However, some of them are not super easy to remember when needed.  :confused:
+#### This is where   [emojicodes.com]() comes into play!
 
-Runs the app in the development mode.\
+  
+<a  href="#"><img  width="728"  src="/src/img/emojicodes.png"  alt="Demo"></a>
+
+> Search for your favorite emoji and copy it with just ONE CLICK
+  
+
+## Why
 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+| Easy Access ✔ | Searchable ✔ | One Click Copy ✔ | Simple UI ✔ | 
+  
+## Usage
 
-### `npm test`
+>Hover over and Click to Copy to your Clipboard
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<img  width="728"  src="/src/img/usage.gif"  alt="Usage Demo">
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Where Can I Use it
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+These [Emoji]() emoticons are supported on  [GitHub](http://github.com/),  [Campfire](http://campfirenow.com/), [Basecamp](http://basecamp.com/), [Redbooth](https://redbooth.com/), [Trac](http://trac-hacks.org/wiki/TracEmojiPlugin), [Flowdock](https://www.flowdock.com/), [Sprint.ly](https://sprint.ly/), [Kandan](http://kandanapp.com/), [Textbox.io](http://textbox.io/), [Kippt](http://kippt.com/), [Redmine](https://github.com/tmy/redmine_gemoji), [JabbR](http://about.jabbr.net/), [Trello](https://trello.com/), [Hall](https://hall.com/), [Qiita](http://qiita.com/), [Zendesk](http://www.zendesk.com/), [Ruby China](http://ruby-china.org/), [Grove](https://grove.io/), [Idobata](https://idobata.io/), [NodeBB Forums](https://nodebb.org/), [Slack](https://slack.com/), [Streamup](https://streamup.com/), [OrganisedMinds](http://organisedminds.com/), [Hackpad](https://hackpad.com/), [Cryptbin](https://cryptbin.com/), [Kato](https://kato.im/), [Reportedly](http://reportedly.co/), [Cheerful Ghost](http://cheerfulghost.com/), [IRCCloud](https://www.irccloud.com/), [Dashcube](https://dashcube.com/), [MyVideoGameList](http://myvideogamelist.com/), [Subrosa](https://subrosa.io/), [Sococo](https://www.sococo.com/), [Quip](https://quip.com/), [And Bang](https://andbang.com/), [Bonusly](https://bonus.ly/), [Discourse](https://discourse.org/), [Ello](https://ello.co/), [Twemoji Awesome](http://ellekasai.github.io/twemoji-awesome/), [Got Chosen](http://gotchosen.com/), [Flow](https://www.getflow.com/), [ReadMe.io](https://readme.io/), [esa](https://esa.io/), [DBook](https://www.dbook.org/), [Groups.io](https://groups.io/), [TeamworkChat](https://www.teamwork.com/chat), [Damn Bugs](https://www.bugtrack.in/), [Let's Chat](https://sdelements.github.io/lets-chat), [Buildkite](https://buildkite.com/), [ChatGrape](https://chatgrape.com/), [Dokuwiki](https://github.com/squarefractal/githubemoji-dokuwiki), [Usersnap](https://usersnap.com/), [Discord](https://discordapp.com/), [Status Hero](https://statushero.com/), [Morfy](http://morfy.org/), [Bitbucket](https://bitbucket.org/), [Gitter](https://gitter.im/), [Yellow](http://datenstrom.se/yellow/), [YouTube](https://youtube.com/), [Habitica](https://habitica.com/) and more...
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+The default Github [Copyright Law](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository)  © Ali Adam
