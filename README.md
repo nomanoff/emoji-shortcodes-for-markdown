@@ -12,7 +12,11 @@
 
 ## Why
 
-| - Easy Access ✔ | - Searchable ✔ | - One Click Copy ✔ | - Simple UI ✔ | 
+-  ✔ Searchable  
+-  ✔ Easy Access 
+-  ✔ Click to Copy
+-  ✔ 1000+ Emoticons
+-  ✔ Simple & Modern UI  
 
 
   
@@ -21,7 +25,6 @@
 >Hover over and CLICK to Copy to Your Clipboard
 
 <img  width="500"  src="/src/img/usage.gif"  alt="Usage Demo">
-
 
 
 
