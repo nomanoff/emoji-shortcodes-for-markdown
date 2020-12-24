@@ -12,7 +12,11 @@
 
 ## Why
 
-| - Easy Access ✔ | - Searchable ✔ | - One Click Copy ✔ | - Simple UI ✔ | 
+-  ✔ Searchable  
+-  ✔ Easy Access 
+-  ✔ Click to Copy
+-  ✔ 1000+ Emoticons
+-  ✔ Simple & Modern UI  
 
 
   
@@ -26,7 +30,6 @@
 
 
 >>>>>>> dev
-
 
 ## Where Can I Use it
 
