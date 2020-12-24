@@ -20,7 +20,7 @@
 
 >Hover over and Click to Copy to your Clipboard
 
-<img  width="728"  src="/src/img/usage.gif"  alt="Usage Demo">
+<img  width="500"  src="/src/img/usage.gif"  alt="Usage Demo">
 
 
 ## Where Can I Use it
