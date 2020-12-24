@@ -1,10 +1,10 @@
 import React from 'react';
 function Heading(){
     return <header>
-               <h1>Emoji Emoticons</h1>
+               <h1>Markdown Emoji Codes</h1>
                <div className='sub-header'>
                  <h6>
-                  EMOJI CHEAT SHEET FOR MARKDOWN AND MARKUP LANGUAGES
+                  FIND YOUR FAVORITE ONE AND COPY WITH JUST ONE CLICK 
                  </h6>
                  <div className="github-stat">
                 <a className="git-star" href="https://github.com/aliabdulazeez?tab=repositories">  <i className="fab fa-github"></i>  Star</a>

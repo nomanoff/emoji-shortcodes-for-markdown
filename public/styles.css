@@ -18,7 +18,7 @@
   header {
     background-color: #f5ba13;
     margin: 0 auto;
-    padding: 14px 30px;
+    padding: 15px 40px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
   }
   
@@ -35,7 +35,7 @@
     height: 20px;
     font-family: "Montserrat", sans-serif;
     letter-spacing: 1.5px;
-    font-size: 14px;
+    font-size: 16px;
     padding-left: 2px;
     color: #ffffff;
     display: flex;
@@ -47,7 +47,7 @@
     text-decoration: none;
     font-weight: 800;
     color: #5d5a52;
-    font-size: 14px;
+    font-size: 15px;
     margin: 5px;
     background-color:  #fbfbfb;
     padding: 4px 8px;
