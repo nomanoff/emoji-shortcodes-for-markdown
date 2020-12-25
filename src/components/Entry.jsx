@@ -1,19 +1,34 @@
 import React  from 'react';
 import useClipboard from "react-use-clipboard";
-
+import toast from "react-hot-toast";
 
 function Entry(props){
 
 
     const [isCopied, setCopied] = useClipboard(props.markdown, {
-      successDuration: 400,
+      successDuration: 400,      
     });
 
+    const copyProcess = () => {
+      setCopied();
+      toast.success("Copied!", {
+          style: {
+            border: "1px solid #F5BA13",
+            padding: "16px",
+            color: "#F5BA13"
+          },
+          iconTheme: {
+            primary: "#F5BA13",
+            secondary: "#FFFAEE"
+          }
+        }
+      )
+    }
     
   
       return(
         
-          <div  onClick={setCopied} className="emoji-card">
+          <div  onClick={copyProcess} className="emoji-card">
               
                 
               
@@ -22,7 +37,7 @@ function Entry(props){
               </div>
 
               <div>
-                {isCopied ? <p className="copied"><i className="fas fa-clipboard"></i></p> : null}
+                {isCopied && <p className="copied"><i className="fas fa-clipboard"></i></p>}
               </div>
                   
   
