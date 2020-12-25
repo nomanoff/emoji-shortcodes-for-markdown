@@ -12,6 +12,7 @@
     "emoji-dictionary": "^1.0.11",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-hot-toast": "^1.0.1",
     "react-markdown": "^5.0.3",
     "react-scripts": "4.0.1",
     "react-use-clipboard": "1.0.6",
@@ -21,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "eslint": "eslint",
+    "lint": "eslint. "
   },
   "eslintConfig": {
     "extends": [
@@ -40,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "eslint": "^7.16.0"
   }
 }
