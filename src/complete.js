@@ -1,7 +1,6 @@
 
 const allemojis = [
 
-
     {
         id: 1,
         markdown: ":smile:"
