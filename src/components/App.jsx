@@ -1,6 +1,6 @@
 import React from "react";
 import { Toaster } from "react-hot-toast";
-import Heading from "./Heading";
+import Heading from "./Header/Header";
 import Footer from "./Footer/Footer";
 import Search from "./Searchbox";
 
@@ -9,7 +9,7 @@ function App() {
     <div>
       <Toaster />
 
-      <Heading></Heading>
+      <Heading />
 
       <div className="main">
         <Search></Search>
