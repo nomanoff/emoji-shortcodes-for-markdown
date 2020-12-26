@@ -1,7 +1,9 @@
 import React from "react";
-function Heading() {
+import { HEADER_WRAPPER } from "./style";
+
+function Header(props) {
   return (
-    <header>
+    <HEADER_WRAPPER>
       <h1>Markdown Emoji Codes</h1>
       <div className="sub-header">
         <h6>FIND YOUR FAVORITE ONE AND COPY WITH JUST ONE CLICK</h6>
@@ -22,8 +24,8 @@ function Heading() {
           </a>
         </div>
       </div>
-    </header>
+    </HEADER_WRAPPER>
   );
 }
 
-export default Heading;
+export default Header;
