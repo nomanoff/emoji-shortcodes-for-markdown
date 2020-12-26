@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import allemojis from "../complete";
 import Entry from "./Entry";
 import ReactMarkdown from "react-markdown";
