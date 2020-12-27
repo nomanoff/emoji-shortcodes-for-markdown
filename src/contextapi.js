@@ -1,8 +1,8 @@
-// Setting a CONTEXTAPI for state management 
-import React, { useState, useContext } from 'react'
-import allemojis from './complete';
+// Setting a CONTEXTAPI for state management
+import React, { useState, useContext } from "react";
+import allemojis from "./complete";
 
-const AppContext = React.createContext()
+const AppContext = React.createContext();
 
 const AppProvider = ({ children }) => {
   const [searchEmoji, setSearchEmoji] = useState(allemojis);
@@ -18,16 +18,16 @@ const AppProvider = ({ children }) => {
         searched,
         setSearchEmoji,
         setSortedList,
-        setSearched
+        setSearched,
       }}
     >
       {children}
     </AppContext.Provider>
-  )
-}
+  );
+};
 // CUSTOM HOOK to be imported where the state values are required
 export const useGlobalContext = () => {
-  return useContext(AppContext)
-}
+  return useContext(AppContext);
+};
 
-export { AppContext, AppProvider }
+export { AppContext, AppProvider };
