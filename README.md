@@ -37,7 +37,7 @@ These **[emoji emoticons](https://emojis.ninja/)**  are supported on  [GitHub](h
 
 Feel free to contribute 
 
-> Send your **Pull Requests** to **dev** branch 
+> Send your **Pull Requests** ONLY to **dev** branch 
 
 
 
