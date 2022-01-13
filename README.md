@@ -43,4 +43,5 @@ Feel free to contribute
 
 ## License
 
-The default Github [© Copyright](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository)  © Ali Adam
+This project is licensed under the terms of the
+[MIT license](/LICENSE).
