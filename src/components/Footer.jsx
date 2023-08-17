@@ -5,7 +5,7 @@ function Footer() {
 
   return (
     <footer>
-      <p> &copy; {currentYear.getFullYear()} Ali Adam</p>
+      <p> &copy; {currentYear.getFullYear()} Azizbek Nomonjonov</p>
     </footer>
   );
 }
